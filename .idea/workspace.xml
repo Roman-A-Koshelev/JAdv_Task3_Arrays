@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05a2e6d2-2219-4f5e-9e6a-1685877850c5" name="Changes" comment="Решение Задания №3_Массивы&#10;Инструкция&#10;1.&#10;- Массив размерностью 20&#10;- Он заполняется случайными целыми числами от -10 до 10&#10;- Нужно найти максимальный отрицательный и минимальный положительный элементы массива&#10;- Поменять их местами.&#10;2. Формируется сладкий подарок.&#10;- Он может включать в себя разные сладости (Candy, Jellybean, etc.)&#10;- У каждой сладости есть название, вес, цена и свой уникальный параметр&#10;- Необходимо собрать подарок из сладостей&#10;- Найти общий вес подарка, общую стоимость подарка&#10;- Вывести на консоль информацию о всех сладостях в подарке">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweet/Candy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweet/Jellybean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sweet/Sweet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N0ZYbInwWi4NB5P8afBMKKKzKY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Task3_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05a2e6d2-2219-4f5e-9e6a-1685877850c5" name="Changes" comment="" />
+      <created>1678803011309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678803011309</updated>
+      <workItem from="1678803013015" duration="170000" />
+      <workItem from="1678803217202" duration="8850000" />
+    </task>
+    <task id="LOCAL-00001" summary="Решение Задания №3_Массивы&#10;Инструкция&#10;1.&#10;- Массив размерностью 20&#10;- Он заполняется случайными целыми числами от -10 до 10&#10;- Нужно найти максимальный отрицательный и минимальный положительный элементы массива&#10;- Поменять их местами.&#10;2. Формируется сладкий подарок.&#10;- Он может включать в себя разные сладости (Candy, Jellybean, etc.)&#10;- У каждой сладости есть название, вес, цена и свой уникальный параметр&#10;- Необходимо собрать подарок из сладостей&#10;- Найти общий вес подарка, общую стоимость подарка&#10;- Вывести на консоль информацию о всех сладостях в подарке">
+      <created>1678803162163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678803162163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решение Задания №3_Массивы&#10;Инструкция&#10;1.&#10;- Массив размерностью 20&#10;- Он заполняется случайными целыми числами от -10 до 10&#10;- Нужно найти максимальный отрицательный и минимальный положительный элементы массива&#10;- Поменять их местами.&#10;2. Формируется сладкий подарок.&#10;- Он может включать в себя разные сладости (Candy, Jellybean, etc.)&#10;- У каждой сладости есть название, вес, цена и свой уникальный параметр&#10;- Необходимо собрать подарок из сладостей&#10;- Найти общий вес подарка, общую стоимость подарка&#10;- Вывести на консоль информацию о всех сладостях в подарке" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решение Задания №3_Массивы&#10;Инструкция&#10;1.&#10;- Массив размерностью 20&#10;- Он заполняется случайными целыми числами от -10 до 10&#10;- Нужно найти максимальный отрицательный и минимальный положительный элементы массива&#10;- Поменять их местами.&#10;2. Формируется сладкий подарок.&#10;- Он может включать в себя разные сладости (Candy, Jellybean, etc.)&#10;- У каждой сладости есть название, вес, цена и свой уникальный параметр&#10;- Необходимо собрать подарок из сладостей&#10;- Найти общий вес подарка, общую стоимость подарка&#10;- Вывести на консоль информацию о всех сладостях в подарке" />
+  </component>
+</project>
