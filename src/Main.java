@@ -41,7 +41,7 @@ public class Main {
         Random rnd = new Random();
 
         int ELEM_NOT_FOUND = -1;
-        int maxNegative = Integer.MAX_VALUE;
+        int maxNegative = Integer.MIN_VALUE;
         int maxNegativePos = ELEM_NOT_FOUND;
         int minPositive = Integer.MAX_VALUE;
         int minPositivePos = ELEM_NOT_FOUND;
@@ -65,7 +65,7 @@ public class Main {
             }
 
             if (arr[i] < 0) {
-                if (arr[i] < maxNegative) {
+                if (arr[i] > maxNegative) {
                     maxNegative = arr[i];
                     maxNegativePos = i;
                 }
